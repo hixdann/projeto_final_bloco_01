@@ -1,8 +1,10 @@
 package projeto_final_bloco_01;
 
 import java.util.Scanner;
-
+import model_repository.Loja;
 import cores.Cores;
+import model_repository.LojaAluguel;
+import model_repository.LojaCompra;
 
 public class Menu {
 
